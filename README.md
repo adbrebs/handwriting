@@ -1,6 +1,6 @@
 # Conditional handwriting generation
 
-![img](https://raw.githubusercontent.com/adbrebs/handwriting/master/sous_le_pont_Mirabeau.png_UcGMmqoNg9kzHks5XGAtMwA%3D%3D "Guillaume Apollinaire")
+![img](https://raw.githubusercontent.com/adbrebs/handwriting/master/sous_le_pont_Mirabeau.png)
 
 Reproduces Alex Graves paper [Generating Sequences With Recurrent Neural Networks](http://arxiv.org/abs/1308.0850).  
 Thanks to [Jose Sotelo](https://github.com/sotelo/) and [Kyle Kastner](https://github.com/kastnerkyle) for helpful discussions.
